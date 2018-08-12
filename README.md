@@ -20,8 +20,8 @@
 * Compare Kafka to message queues and to other data streaming platforms
 * Understand design principals and compromises of Kafka 
 * Setup a small Kafka cluster to experiment with
-* Publish data with the producer API
-* Process data with the consumer API
+* Publish data with producer API
+* Process data with consumer API
 * Define a pipeline for data processing using Streaming API
 * Leverage Connector API to integrate data streaming with existing systems
 * Learn about Kafka Deployment and Monitoring
